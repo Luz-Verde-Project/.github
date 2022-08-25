@@ -1,5 +1,7 @@
 ## Capitulo oficial de la PES en UPRM
 
+Este repositorio contiene los proyectos que se estan trabajando para el capítulo, entre ellos **_Proyecto Luz Verde_**. 
+
 <!--
 
 **Here are some ideas to get you started:**
